@@ -1,4 +1,4 @@
-# 💳 FinFlow - Digital Wallet & Payment Platform
+# 💳 Trustpay - Digital Wallet & Payment Platform
 
 A scalable fintech wallet application built using the MERN Stack that enables users to securely manage wallets, transfer money, track transactions, and receive real-time notifications.
 
